@@ -1,0 +1,10 @@
+Formato de archivo de configuracion --> string: int
+ej:
+	valor: 1
+	otro: 10
+	etc: 53
+
+estado: 1
+tema: 0
+volumen: 500
+...
